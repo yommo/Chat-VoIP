@@ -1,0 +1,9 @@
+aiohttp
+python-socketio[aiohttp]
+cryptography
+pycryptodome
+Pillow
+sounddevice
+numpy
+noisereduce
+bcrypt
