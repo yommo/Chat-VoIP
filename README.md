@@ -23,7 +23,7 @@ It includes:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/EndermanPC/Chat-VoIP
+git clone https://github.com/EndermanPC/Chat-VoIP.git
 cd Chat-VoIP
 ````
 
